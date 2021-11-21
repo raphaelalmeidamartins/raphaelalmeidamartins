@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <a href="mailto:raphael.almeida.martins@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://www.behance.net/raphaelalmeida13" target="_blank" rel="external"><img src="https://aleen42.github.io/badges/src/behance.svg" alt="Behance"></a>    
 </div>
-
+<br>
 <div>
     <p>Visitas no meu perfil desde 21/11/2021:</p>
     <p><img alingn="center" src="https://profile-counter.glitch.me/raphaelalmeidamartins/count.svg"></p>
