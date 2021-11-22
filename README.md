@@ -1,6 +1,6 @@
 ## :brazil: Português
 ### Olá, sou Raphael Martins! 👋
-<p>Tenho 27 anos, sou brasileiro e moro em São Paulo/SP. Sou um garoto nerd apaixonado por tecnologia, música pop, quadrinhos vídeogames, felinos e arte. Atualmente sou estudante de Desenvolvimento Web na Trybe e estou bastante empolgado nessa nova etapa da minha vida.</p>
+<p>Tenho 27 anos, sou brasileiro e moro em São Paulo/SP. Sou um garoto nerd apaixonado por tecnologia, música pop, quadrinhos videogames, felinos e arte. Atualmente sou estudante de Desenvolvimento Web na Trybe e estou bastante empolgado nessa nova etapa da minha vida.</p>
 
 ## :us: English
 ### Hello, I am Raphael Martins! 👋
