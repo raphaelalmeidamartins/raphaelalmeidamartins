@@ -1,4 +1,4 @@
-<img src="imagens/my_octocat.png" alt="My octocat">
+<img src="imagens/my_octocat.png" alt="My octocat" width="300px">
 
 ## :brazil: Português
 ### Olá, sou Raphael Martins! 👋
