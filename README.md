@@ -7,7 +7,7 @@
 ## :us: English
 ### Hello, I am Raphael Martins! 👋
 <p>I am 27 years old, Brazilian and I live in São Paulo, Brazil. I am a nerd boy who loves technology, pop music, comics, games, cats and art. Nowadays, I am studying Web Development at Trybe, and I am very excited about this new chapter of my life.</p>
-</br>
+
 <!--
 **raphaelalmeidamartins/raphaelalmeidamartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
