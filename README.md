@@ -7,6 +7,7 @@
 ## :us: English
 ### Hello, I am Raphael Martins! 👋
 <p>I am 27 years old, Brazilian and I live in São Paulo, Brazil. I am a nerd boy who loves technology, pop music, comics, games, cats and art. Nowadays, I am studying Web Development at Trybe, and I am very excited about this new chapter of my life.</p>
+<br>
 
 <!--
 **raphaelalmeidamartins/raphaelalmeidamartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,11 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-    <a href="https://github.com/raphaelalmeidamartins">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelalmeidamartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelalmeidamartins&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelalmeidamartins&count_private=true&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelalmeidamartins&layout=compact&theme=dracula)
 
 <div>
     <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
