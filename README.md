@@ -1,28 +1,15 @@
-<img src="imagens/my_octocat.png" alt="My octocat" width="300px">
+# :globe_with_meridians: Web developer :globe_with_meridians:
 
-## :brazil: Português
-### Olá, sou Raphael Martins! 👋
-<p>Tenho 27 anos, sou brasileiro e moro em São Paulo/SP. Sou um garoto nerd apaixonado por tecnologia, música pop, quadrinhos videogames, felinos e arte. Atualmente sou estudante de Desenvolvimento Web na Trybe e estou bastante empolgado nessa nova etapa da minha vida.</p>
+<img align="right" src="imagens/my_octocat.png" alt="My octocat" width="250px">
 
 ## :us: English
 ### Hello, I am Raphael Martins! 👋
-<p>I am 27 years old, Brazilian and I live in São Paulo, Brazil. I am a nerd boy who loves technology, pop music, comics, games, cats and art. Nowadays, I am studying Web Development at Trybe, and I am very excited about this new chapter of my life.</p>
+<p>I am 27 years old, Brazilian and I live in São Paulo, Brazil. I am a nerd boy who loves technology, pop music, comic books, games, cats and art. Nowadays, I am studying Web Development at Trybe, and I am very excited about this new chapter of my life. I also want to study mobile development.</p>
+
+## :brazil: Português
+### Olá, sou Raphael Martins! 👋
+<p>Tenho 27 anos, sou brasileiro e moro em São Paulo/SP. Sou um garoto nerd apaixonado por tecnologia, música pop, quadrinhos videogames, felinos e arte. Atualmente sou estudante de Desenvolvimento Web na Trybe e estou bastante empolgado nessa nova etapa da minha vida. Depois também pretendo me especializar em desenvolvimento mobile.</p>
 <br>
-
-<!--
-**raphaelalmeidamartins/raphaelalmeidamartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelalmeidamartins&count_private=true&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelalmeidamartins&layout=compact&theme=dracula)
