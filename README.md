@@ -4,8 +4,8 @@
 
 ## :us: English
 ### Hello, I am Raphael Martins! 👋
-<p>I am 27 years old, Brazilian, and live in São Paulo, Brazil. I am a nerd boy who loves technology, pop music, comic books, games, cats, and art. Nowadays, I am studying Web Development at Trybe, and I am very excited about this new chapter of my life. I also want to study mobile development in the near future.</p>
-<p>I am a very creative person who likes to take on challenges and solve problems. Technology is a powerful tool that can change the world for the better, making information more accessible and people more connected. I am very dynamic, and I don’t like to be stagnant. If something is bothering me in my life (professional or personal), I will actively be searching for solutions. I prefer to be around people with a growth mindset.</p>
+<p>I am a 27-years-old Brazilian who lives in São Paulo, Brazil. I am a nerd boy who loves technology, pop music, comic books, games, cats, and art. Nowadays, I am studying Web Development at Trybe, and I am very excited about this new chapter of my life. I also want to learn mobile development soon.</p>
+<p>I am a very creative person who likes to take on challenges and solve problems. Technology is a powerful tool that can change the world for the better, making information more accessible and people more connected. I am very dynamic, and I don’t like to be stagnant. If something is bothering me in both my personal and professional lives, I will actively be searching for solutions. I prefer to be around people with a growth mindset.</p>
 
 ## :brazil: Português
 ### Olá, sou Raphael Martins! 👋
