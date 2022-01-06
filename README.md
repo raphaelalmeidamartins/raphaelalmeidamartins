@@ -10,7 +10,7 @@
 ## :brazil: Português
 ### Olá, sou Raphael Martins! 👋
 <p>Tenho 27 anos, sou brasileiro e moro em São Paulo/SP. Sou um garoto nerd apaixonado por tecnologia, música pop, quadrinhos videogames, felinos e arte. Atualmente sou estudante de Desenvolvimento Web na Trybe e estou bastante empolgado nessa nova etapa da minha vida. Depois também pretendo me especializar em desenvolvimento mobile.</p>
-<b>Sou uma pessoa criativa que gosta de desafios e de solucionar problemas. Acredito que a tecnologia é uma ferramenta poderosa que pode mudar o mundo para melhor fazendo com que as pessoas tenham mais acesso à informação e estejam conectadas. Sou muito dinâmico e não gosto de estagnação, se há algo me incomodando na minha vida, seja pessoal ou profissional, estou ativamente buscando soluções para sair dessa situação. Gosto de me cercar de pessoas com visão de crescimento.</b>
+<p>Sou uma pessoa criativa que gosta de desafios e de solucionar problemas. Acredito que a tecnologia é uma ferramenta poderosa que pode mudar o mundo para melhor fazendo com que as pessoas tenham mais acesso à informação e estejam conectadas. Sou muito dinâmico e não gosto de estagnação, se há algo me incomodando na minha vida, seja pessoal ou profissional, estou ativamente buscando soluções para sair dessa situação. Gosto de me cercar de pessoas com visão de crescimento.</p>
 <br>
 <div>
     <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
