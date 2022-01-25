@@ -11,7 +11,14 @@ const aboutMe = {
   level: 'Junior',
   languages: ['HTML', 'CSS', 'JavaScript ES6'],
   tools: ['Bulma', 'Bootstrap', 'Jest', 'React'],
-  softSkills: ['creativity', 'leadership', 'communication', 'resilience', 'emotional intelligence', 'organization']
+  softSkills: [
+    'creativity',
+    'leadership',
+    'communication',
+    'resilience',
+    'emotional intelligence',
+    'organization'
+  ]
 };
 
 function contatcMe() {
