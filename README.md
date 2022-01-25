@@ -36,6 +36,9 @@ function contatcMe() {
     <a href="https://www.behance.net/raphaelalmeida13" target="_blank" rel="external"><img src="https://aleen42.github.io/badges/src/behance.svg" alt="Behance"></a>    
 </div>
 <br>
+
+## GitHub Statistics
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=raphaelalmeidamartins&count_private=true&show_icons=true&theme=dracula" />
 </a>
