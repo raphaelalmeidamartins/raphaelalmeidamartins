@@ -32,8 +32,7 @@ function contatcMe() {
 <br>
 <div>
     <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-    <a href="mailto:raphael.almeida.martins@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://www.behance.net/raphaelalmeida13" target="_blank" rel="external"><img src="https://aleen42.github.io/badges/src/behance.svg" alt="Behance"></a>    
+    <a href="mailto:raphael.almeida.martins@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
 </div>
 <br>
 
