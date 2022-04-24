@@ -25,22 +25,22 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
     <td>
       <h3>Sonic Trumps</h3>
       <img width="100%" src="./imagens/sonic-trumps.gif" alt="Project-preview" />
+    </td>
     <td>
-        <td>
       <h3>Trivia</h3>
       <img width="100%" src="./imagens/trivia.gif" alt="Project-preview" />
-    <td>
-  <tr>
+    </td>
+  </tr>
   <tr>
     <td>
       <h3>Online Store</h3>
       <img width="100%" src="./imagens/online-store.gif" alt="Project-preview" />
+    </td>
     <td>
-        <td>
       <h3>Wallet</h3>
       <img width="100%" src="./imagens/wallet.gif" alt="Project-preview" />
-    <td>
-  <tr>
+    </td>
+  </tr>
 </table>
 
 ## GitHub Statistics
