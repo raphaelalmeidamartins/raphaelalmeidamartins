@@ -1,44 +1,15 @@
-# :globe_with_meridians: Web developer :globe_with_meridians:
+# :globe_with_meridians: Web developer :technologist:
 
 <img align="right" src="imagens/my_octocat.png" alt="My octocat" width="250px">
 
 ### Hello, I am Raphael Martins! 👋
 
-```JavaScript
-const aboutMe = {
-  name: 'Raphael Martins',
-  age: '27 years old';
-  level: 'Junior',
-  languages: ['HTML', 'CSS', 'JavaScript ES6'],
-  tools: ['Bulma', 'Bootstrap', 'Jest', 'React'],
-  softSkills: [
-    'creativity',
-    'leadership',
-    'communication',
-    'resilience',
-    'emotional intelligence',
-    'organization'
-  ]
-};
+Jr. Web Development in the making. Currently, I am finishing the Front-end module of Trybe's course. I am a 27-year-old Brazilian who lives in São Paulo, Brazil. A nerd boy who loves technology, pop music, comic books, and games. I am a very creative person who likes to take on challenges and solve problems. Likewise, I am also dedicated and passionate about the things I do.
 
-function contatcMe() {
-  return 'Linkedin: https://www.linkedin.com/in/raphaelameidamartins/';
-}
-```
+I know HTML, CSS, and modern JavaScript (ES6+). I can work with the React.js library, and now I am studying the Redux library. Also, know how to implement unit and integration automated tests with Jest and React Testing Library. Furthermore, I can work with Bash and the version control systems Git and GitHub.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="macOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
-</div>
-<br>
+When it comes to soft skills, I am sociable, empathic. I am always open to feedback. Finally, I understand agile methodologies such as Scrum and Kanban.
 
-<p>I am a 27-year-old Brazilian who lives in São Paulo, Brazil. I am a nerd boy who loves technology, pop music, comic books, and games. Nowadays, I am studying Web Development at Trybe, and I am very excited about this new chapter of my life. I also want to learn mobile development soon.</p>
-<p>I am a very creative person who likes to take on challenges and solve problems. Technology is a powerful tool that can change the world for the better. I am very dynamic, and I don’t like to be stagnant. If something is bothering me in both my personal and professional lives, I will actively be searching for solutions. I prefer to be around people with a growth mindset.</p>
 <br>
 
 <div>
@@ -46,6 +17,31 @@ function contatcMe() {
   <a href="mailto:raphael.almeida.martins@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
 </div>
 <br>
+
+## Projects
+
+<table>
+  <tr>
+    <td>
+      <h3>Sonic Trumps</h3>
+      <img width="100%" src="./imagens/sonic-trumps.gif" alt="Project-preview" />
+    <td>
+        <td>
+      <h3>Trivia</h3>
+      <img width="100%" src="./imagens/trivia.gif" alt="Project-preview" />
+    <td>
+  <tr>
+  <tr>
+    <td>
+      <h3>Online Store</h3>
+      <img width="100%" src="./imagens/online-store.gif" alt="Project-preview" />
+    <td>
+        <td>
+      <h3>Wallet</h3>
+      <img width="100%" src="./imagens/wallet.gif" alt="Project-preview" />
+    <td>
+  <tr>
+</table>
 
 ## GitHub Statistics
 
