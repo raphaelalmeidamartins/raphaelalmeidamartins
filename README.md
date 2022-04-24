@@ -31,6 +31,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
       <p>Top Trumps-style card game with Sonic the Hedgehog characters</p>
       <br>
       <a href="https://github.com/raphaelalmeidamartins/sonic-trumps">Repository</a>
+      <br>
       <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/">Deploy</a>
     </td>
     <td valign="top">
@@ -42,6 +43,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
       <p>Trivia game React application using a public API</p>
       <br>
       <a href="https://github.com/raphaelalmeidamartins/trivia">Repository</a>
+      <br>
       <a href="https://raphaelalmeidamartins.github.io/trivia/">Deploy</a>
     </td>
   </tr>
@@ -55,6 +57,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
       <p>Front-end Online Store SPA using a public API</p>
       <br>
       <a href="https://github.com/raphaelalmeidamartins/front-end-online-store">Repository</a>
+      <br>
       <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/">Deploy</a>
     </td>
     <td valign="top">
@@ -64,7 +67,9 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
       <br>
       <h4>React, Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript</h4>
       <p>Wallet application using exchange rates from a public API</p>
+      <br>
       <a href="https://github.com/raphaelalmeidamartins/trybewallet">Repository</a>
+      <br>
       <a href="https://raphaelalmeidamartins.github.io/trybewallet/">Deploy</a>
     </td>
   </tr>
