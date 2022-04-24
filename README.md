@@ -25,24 +25,47 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
     <td valign="top">
       <h3>Sonic Trumps</h3>
       <img width="100%" src="./imagens/sonic-trumps.png" alt="Project-preview" />
-      <p><strong>React, Redux, React Router v6, HTML, CSS, Sass, JavaScript</strong> - Top Trumps-style card game with Sonic the Hedgehog characters</p>
+      <br>
+      <br>
+      <h4>React, Redux, React Router v6, HTML, CSS, Sass, JavaScript</h4>
+      <p>Top Trumps-style card game with Sonic the Hedgehog characters</p>
+      <br>
+      <a href="https://github.com/raphaelalmeidamartins/sonic-trumps">Repository</a>
+      <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/">Deploy</a>
     </td>
     <td valign="top">
       <h3>Trivia</h3>
       <img width="100%" src="./imagens/trivia.png" alt="Project-preview" />
-      <p><strong>React, Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</strong> - Trivia game React application using a public API</p>
+      <br>
+      <br>
+      <h4>React, Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</h4>
+      <p>Trivia game React application using a public API</p>
+      <br>
+      <a href="https://github.com/raphaelalmeidamartins/trivia">Repository</a>
+      <a href="https://raphaelalmeidamartins.github.io/trivia/">Deploy</a>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <h3>Online Store</h3>
       <img width="100%" src="./imagens/online-store.png" alt="Project-preview" />
-      <p><strong>React, Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile</strong> - Front-end Online Store SPA using a public API</p>
+      <br>
+      <br>
+      <h4>React, Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile</h4>
+      <p>Front-end Online Store SPA using a public API</p>
+      <br>
+      <a href="https://github.com/raphaelalmeidamartins/front-end-online-store">Repository</a>
+      <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/">Deploy</a>
     </td>
     <td valign="top">
       <h3>Wallet</h3>
       <img width="100%" src="./imagens/wallet.png" alt="Project-preview" />
-      <p><strong>React, Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript</strong> - Wallet application using exchange rates from a public API</p>
+      <br>
+      <br>
+      <h4>React, Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript</h4>
+      <p>Wallet application using exchange rates from a public API</p>
+      <a href="https://github.com/raphaelalmeidamartins/trybewallet">Repository</a>
+      <a href="https://raphaelalmeidamartins.github.io/trybewallet/">Deploy</a>
     </td>
   </tr>
 </table>
