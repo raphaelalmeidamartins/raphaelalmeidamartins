@@ -23,54 +23,50 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
 <table>
   <tr>
     <td valign="top">
-      <h3>Sonic Trumps</h3>
+      <h3>Sonic Trumps - 
+        <a href="https://github.com/raphaelalmeidamartins/sonic-trumps">repository</a>,
+        <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/">deploy</a>
+      </h3>
       <img width="100%" src="./imagens/sonic-trumps.png" alt="Project-preview" />
       <br>
       <br>
       <h4>React, Redux, React Router v6, HTML, CSS, Sass, JavaScript</h4>
       <p>Top Trumps-style card game with Sonic the Hedgehog characters</p>
-      <br>
-      <a href="https://github.com/raphaelalmeidamartins/sonic-trumps">Repository</a>
-      <br>
-      <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/">Deploy</a>
     </td>
     <td valign="top">
-      <h3>Trivia</h3>
+      <h3>Trivia
+        <a href="https://github.com/raphaelalmeidamartins/trivia">repository</a>,
+        <a href="https://raphaelalmeidamartins.github.io/trivia/">deploy</a>
+      </h3>
       <img width="100%" src="./imagens/trivia.png" alt="Project-preview" />
       <br>
       <br>
       <h4>React, Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</h4>
       <p>Trivia game React application using a public API</p>
-      <br>
-      <a href="https://github.com/raphaelalmeidamartins/trivia">Repository</a>
-      <br>
-      <a href="https://raphaelalmeidamartins.github.io/trivia/">Deploy</a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h3>Online Store</h3>
+      <h3>Online Store
+        <a href="https://github.com/raphaelalmeidamartins/front-end-online-store">repository</a>,
+        <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/">deploy</a>
+      </h3>
       <img width="100%" src="./imagens/online-store.png" alt="Project-preview" />
       <br>
       <br>
       <h4>React, Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile</h4>
       <p>Front-end Online Store SPA using a public API</p>
-      <br>
-      <a href="https://github.com/raphaelalmeidamartins/front-end-online-store">Repository</a>
-      <br>
-      <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/">Deploy</a>
     </td>
     <td valign="top">
-      <h3>Wallet</h3>
+      <h3>Wallet
+        <a href="https://github.com/raphaelalmeidamartins/trybewallet">repository</a>,
+        <a href="https://raphaelalmeidamartins.github.io/trybewallet/">deploy</a>
+      </h3>
       <img width="100%" src="./imagens/wallet.png" alt="Project-preview" />
       <br>
       <br>
       <h4>React, Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript</h4>
       <p>Wallet application using exchange rates from a public API</p>
-      <br>
-      <a href="https://github.com/raphaelalmeidamartins/trybewallet">Repository</a>
-      <br>
-      <a href="https://raphaelalmeidamartins.github.io/trybewallet/">Deploy</a>
     </td>
   </tr>
 </table>
