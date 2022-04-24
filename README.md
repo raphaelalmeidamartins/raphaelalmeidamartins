@@ -25,20 +25,24 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
     <td>
       <h3>Sonic Trumps</h3>
       <img width="100%" src="./imagens/sonic-trumps.gif" alt="Project-preview" />
+      <p><strong>React, Redux, React Router v6, HTML, CSS, Sass, JavaScript</strong> - Top Trumps-style card game with Sonic the Hedgehog characters</p>
     </td>
     <td>
       <h3>Trivia</h3>
       <img width="100%" src="./imagens/trivia.gif" alt="Project-preview" />
+      <p><strong>React, Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</strong> - Trivia game React application</p>
     </td>
   </tr>
   <tr>
     <td>
       <h3>Online Store</h3>
       <img width="100%" src="./imagens/online-store.gif" alt="Project-preview" />
+      <p><strong>React, Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile</strong> - Front-end Online Store SPA</p>
     </td>
     <td>
       <h3>Wallet</h3>
       <img width="100%" src="./imagens/wallet.gif" alt="Project-preview" />
+      <p><strong>React, Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript</strong> - Front-end Online Store SPA</p>
     </td>
   </tr>
 </table>
