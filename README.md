@@ -83,7 +83,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
 </table>
 <br>
 
-<h2 align="center">GitHub Statistics</h2>
+<h1 align="center">GitHub Statistics</h1>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
