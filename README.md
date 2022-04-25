@@ -46,16 +46,16 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
 <table>
   <tr>
     <td valign="top">
-      <h2 align="center"><a href="https://raphaelalmeidamartins.github.io/sonic-trumps/">Sonic Trumps</a></h2>
-      <img width="100%" src="./imagens/sonic-trumps.png" alt="Project-preview" />
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/sonic-trumps">Sonic Trumps</a></h2>
+      <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/"><img width="100%" src="./imagens/sonic-trumps.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React, Redux, React Router v6, HTML, CSS, Sass, JavaScript</em></p>
       <p>Top Trumps-style card game with Sonic the Hedgehog characters</p>
     </td>
     <td valign="top">
-      <h2 align="center"><a href="https://raphaelalmeidamartins.github.io/trivia/">Trivia</a></h2>
-      <img width="100%" src="./imagens/trivia.png" alt="Project-preview" />
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trivia">Trivia</a></h2>
+      <a href="https://raphaelalmeidamartins.github.io/trivia/"><img width="100%" src="./imagens/trivia.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React, Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
@@ -64,16 +64,16 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
   </tr>
   <tr>
     <td valign="top">
-      <h2 align="center"><a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/">Online Store</a></h2>
-      <img width="100%" src="./imagens/online-store.png" alt="Project-preview" />
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/front-end-online-store">Online Store</a></h2>
+      <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/"><img width="100%" src="./imagens/online-store.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React, Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
       <p>Front-end Online Store SPA using a public API</p>
     </td>
     <td valign="top">
-      <h2 align="center"><a href="https://raphaelalmeidamartins.github.io/trybewallet/">Wallet</a></h2>
-      <img width="100%" src="./imagens/wallet.png" alt="Project-preview" />
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trybewallet">Wallet</a></h2>
+      <a href="https://raphaelalmeidamartins.github.io/trybewallet/"><img width="100%" src="./imagens/wallet.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React, Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript</em></p>
