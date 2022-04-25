@@ -32,7 +32,6 @@ I know HTML, CSS, and modern JavaScript (ES6+). I can work with the React.js lib
 When it comes to soft skills, I am sociable, empathic. I am always open to feedback. Finally, I understand agile methodologies such as Scrum and Kanban.
 
 <br>
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
