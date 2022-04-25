@@ -23,21 +23,17 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
 <table>
   <tr>
     <td valign="top">
-      <h3 align="center">Sonic Trumps - 
-        <a href="https://github.com/raphaelalmeidamartins/sonic-trumps">repository</a>,
-        <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/">deploy</a>
-      </h3>
+      <h3><a href="https://raphaelalmeidamartins.github.io/sonic-trumps/">Sonic Trumps</a></h3>
       <img width="100%" src="./imagens/sonic-trumps.png" alt="Project-preview" />
+      <br>
       <br>
       <p>Top Trumps-style card game with Sonic the Hedgehog characters</p>
       <p><em><strong>Tools</strong>: React, Redux, React Router v6, HTML, CSS, Sass, JavaScript</em></p>
     </td>
     <td valign="top">
-      <h3 align="center">Trivia
-        <a href="https://github.com/raphaelalmeidamartins/trivia">repository</a>,
-        <a href="https://raphaelalmeidamartins.github.io/trivia/">deploy</a>
-      </h3>
+      <h3><a href="https://raphaelalmeidamartins.github.io/trivia/">Trivia</a></h3>
       <img width="100%" src="./imagens/trivia.png" alt="Project-preview" />
+      <br>
       <br>
       <p>Trivia game React application using a public API</p>
       <p><em><strong>Tools:</strong> React, Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
@@ -45,21 +41,17 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
   </tr>
   <tr>
     <td valign="top">
-      <h3 align="center">Online Store
-        <a href="https://github.com/raphaelalmeidamartins/front-end-online-store">repository</a>,
-        <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/">deploy</a>
-      </h3>
+      <h3><a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/">Online Store</a></h3>
       <img width="100%" src="./imagens/online-store.png" alt="Project-preview" />
+      <br>
       <br>
       <p>Front-end Online Store SPA using a public API</p>
       <p><em><strong>Tools:</strong> React, Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
     </td>
     <td valign="top">
-      <h3 align="center">Wallet
-        <a href="https://github.com/raphaelalmeidamartins/trybewallet">repository</a>,
-        <a href="https://raphaelalmeidamartins.github.io/trybewallet/">deploy</a>
-      </h3>
+      <h3><a href="https://raphaelalmeidamartins.github.io/trybewallet/">Wallet</a></h3>
       <img width="100%" src="./imagens/wallet.png" alt="Project-preview" />
+      <br>
       <br>
       <p>Wallet application using exchange rates from a public API</p>
       <p><em><strong>Tools:</strong> React, Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript</em></p>
