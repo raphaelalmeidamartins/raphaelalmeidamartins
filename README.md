@@ -79,6 +79,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
     </td>
   </tr>
 </table>
+<br>
 
 ## GitHub Statistics
 
