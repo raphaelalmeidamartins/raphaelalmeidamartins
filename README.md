@@ -39,7 +39,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
 </div>
 <br>
 
-## Projects
+# Projects
 
 <table>
   <tr>
