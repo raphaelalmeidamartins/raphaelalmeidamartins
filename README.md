@@ -29,10 +29,6 @@ function contatcMe() {
 
 Jr. Web Development in the making. Currently, I am finishing the Front-end module of Trybe's course. I am a 27-year-old Brazilian who lives in São Paulo, Brazil. A nerd boy who loves technology, pop music, comic books, and games. I am a very creative person who likes to take on challenges and solve problems. Likewise, I am also dedicated and passionate about the things I do.
 
-I know HTML, CSS, and modern JavaScript (ES6+). I can work with React.js and Redux. Also, I know how to implement unit and integration automated tests with Jest and React Testing Library. Furthermore, I can work with Bash and the version control systems Git and GitHub.
-
-When it comes to soft skills, I am sociable, empathic. I am always open to feedback. Finally, I understand agile methodologies such as Scrum and Kanban.
-
 <br>
 
 <div align="center">
