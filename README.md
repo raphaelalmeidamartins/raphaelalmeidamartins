@@ -1,8 +1,6 @@
-# :globe_with_meridians: Web developer :technologist:
+<h1 align="center">:globe_with_meridians: Web developer :technologist:</h1>
 
 <img align="right" src="imagens/my_octocat.png" alt="My octocat" width="250px">
-
-### Hello, I am Raphael Martins! 👋
 
 ```JavaScript
 const aboutMe = {
@@ -39,7 +37,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
 </div>
 <br>
 
-# Projects
+<h1 align="center">Projects</h1>
 
 <table>
   <tr>
@@ -81,20 +79,22 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
 </table>
 <br>
 
-## GitHub Statistics
+<h2 align="center">GitHub Statistics</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=raphaelalmeidamartins&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelalmeidamartins&layout=compact&theme=dracula" />
-</a>
-<a href="https://git.io/streak-stats">
-  <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=raphaelalmeidamartins&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
-<br>
-<br>
-<div>
-  <p>Profile views since 11/21/2021:</p>
-  <p><img alingn="center" src="https://profile-counter.glitch.me/raphaelalmeidamartins/count.svg"></p>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=raphaelalmeidamartins&count_private=true&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelalmeidamartins&layout=compact&theme=dracula" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=raphaelalmeidamartins&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+  <br>
+  <br>
+  <div>
+    <p>Profile views since 11/21/2021:</p>
+    <p><img alingn="center" src="https://profile-counter.glitch.me/raphaelalmeidamartins/count.svg"></p>
+  </div>
 </div>
