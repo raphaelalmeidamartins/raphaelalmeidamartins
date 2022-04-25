@@ -50,7 +50,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
       <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/"><img width="100%" src="./imagens/sonic-trumps.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>Tools/Methodologies:</strong> React, Redux, React Router v6, HTML, CSS, Sass, JavaScript</em></p>
+      <p><em><strong>Tools/Methodologies:</strong> React, Redux, React Router v6, HTML, CSS, Sass, JavaScript, Mobile First</em></p>
       <p>Top Trumps-style card game with Sonic the Hedgehog characters</p>
     </td>
     <td valign="top">
@@ -68,7 +68,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
       <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/"><img width="100%" src="./imagens/online-store.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>Tools/Methodologies:</strong> React, Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
+      <p><em><strong>Tools/Methodologies:</strong> React, Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile, Mobile First</em></p>
       <p>Front-end Online Store SPA using a public API</p>
     </td>
     <td valign="top">
@@ -76,8 +76,26 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
       <a href="https://raphaelalmeidamartins.github.io/trybewallet/"><img width="100%" src="./imagens/wallet.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>Tools/Methodologies:</strong> React, Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript</em></p>
+      <p><em><strong>Tools/Methodologies:</strong> React, Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript, Mobile First</em></p>
       <p>Wallet application using exchange rates from a public API</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/to-do-list">To-Do List</a></h2>
+      <a href="https://raphaelalmeidamartins.github.io/to-do-list/"><img width="100%" src="./imagens/to-do-list.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
+      <p>To-do list application. The user can change the order of the list items, mark them as completed, or delete them.</p>
+    </td>
+    <td valign="top">
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trybewarts">Trybewarts</a></h2>
+      <a href="https://raphaelalmeidamartins.github.io/trybewarts/"><img width="100%" src="./imagens/trybewarts.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
+      <p>Harry Potter-inspired responsive web page with HTML form.</p>
     </td>
   </tr>
 </table>
