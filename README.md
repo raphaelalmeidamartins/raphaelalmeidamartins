@@ -44,7 +44,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
 <table>
   <tr>
     <td valign="top">
-      <h3><a href="https://raphaelalmeidamartins.github.io/sonic-trumps/">Sonic Trumps</a></h3>
+      <h2 align="center"><a href="https://raphaelalmeidamartins.github.io/sonic-trumps/">Sonic Trumps</a></h2>
       <img width="100%" src="./imagens/sonic-trumps.png" alt="Project-preview" />
       <br>
       <br>
@@ -52,7 +52,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
       <p>Top Trumps-style card game with Sonic the Hedgehog characters</p>
     </td>
     <td valign="top">
-      <h3><a href="https://raphaelalmeidamartins.github.io/trivia/">Trivia</a></h3>
+      <h2 align="center"><a href="https://raphaelalmeidamartins.github.io/trivia/">Trivia</a></h2>
       <img width="100%" src="./imagens/trivia.png" alt="Project-preview" />
       <br>
       <br>
@@ -62,7 +62,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
   </tr>
   <tr>
     <td valign="top">
-      <h3><a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/">Online Store</a></h3>
+      <h2 align="center"><a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/">Online Store</a></h2>
       <img width="100%" src="./imagens/online-store.png" alt="Project-preview" />
       <br>
       <br>
@@ -70,7 +70,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
       <p>Front-end Online Store SPA using a public API</p>
     </td>
     <td valign="top">
-      <h3><a href="https://raphaelalmeidamartins.github.io/trybewallet/">Wallet</a></h3>
+      <h2 align="center"><a href="https://raphaelalmeidamartins.github.io/trybewallet/">Wallet</a></h2>
       <img width="100%" src="./imagens/wallet.png" alt="Project-preview" />
       <br>
       <br>
