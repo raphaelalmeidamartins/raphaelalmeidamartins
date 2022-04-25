@@ -4,6 +4,27 @@
 
 ### Hello, I am Raphael Martins! 👋
 
+```JavaScript
+const aboutMe = {
+  name: 'Raphael Martins',
+  age: '27 years old';
+  level: 'Junior',
+  tools: ['HTML', 'CSS', 'JavaScript ES6+', 'Sass', 'React', 'Redux', 'Sass', 'RTL'],
+  softSkills: [
+    'creativity',
+    'leadership',
+    'communication',
+    'resilience',
+    'emotional intelligence',
+    'organization'
+  ]
+};
+
+function contatcMe() {
+  return 'Linkedin: https://www.linkedin.com/in/raphaelameidamartins/';
+}
+```
+
 Jr. Web Development in the making. Currently, I am finishing the Front-end module of Trybe's course. I am a 27-year-old Brazilian who lives in São Paulo, Brazil. A nerd boy who loves technology, pop music, comic books, and games. I am a very creative person who likes to take on challenges and solve problems. Likewise, I am also dedicated and passionate about the things I do.
 
 I know HTML, CSS, and modern JavaScript (ES6+). I can work with the React.js library, and now I am studying the Redux library. Also, know how to implement unit and integration automated tests with Jest and React Testing Library. Furthermore, I can work with Bash and the version control systems Git and GitHub.
@@ -27,16 +48,16 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
       <img width="100%" src="./imagens/sonic-trumps.png" alt="Project-preview" />
       <br>
       <br>
-      <p>Top Trumps-style card game with Sonic the Hedgehog characters</p>
       <p><em><strong>Tools</strong>: React, Redux, React Router v6, HTML, CSS, Sass, JavaScript</em></p>
+      <p>Top Trumps-style card game with Sonic the Hedgehog characters</p>
     </td>
     <td valign="top">
       <h3><a href="https://raphaelalmeidamartins.github.io/trivia/">Trivia</a></h3>
       <img width="100%" src="./imagens/trivia.png" alt="Project-preview" />
       <br>
       <br>
-      <p>Trivia game React application using a public API</p>
       <p><em><strong>Tools:</strong> React, Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
+      <p>Trivia game React application using a public API</p>
     </td>
   </tr>
   <tr>
@@ -45,16 +66,16 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
       <img width="100%" src="./imagens/online-store.png" alt="Project-preview" />
       <br>
       <br>
-      <p>Front-end Online Store SPA using a public API</p>
       <p><em><strong>Tools:</strong> React, Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
+      <p>Front-end Online Store SPA using a public API</p>
     </td>
     <td valign="top">
       <h3><a href="https://raphaelalmeidamartins.github.io/trybewallet/">Wallet</a></h3>
       <img width="100%" src="./imagens/wallet.png" alt="Project-preview" />
       <br>
       <br>
-      <p>Wallet application using exchange rates from a public API</p>
       <p><em><strong>Tools:</strong> React, Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript</em></p>
+      <p>Wallet application using exchange rates from a public API</p>
     </td>
   </tr>
 </table>
