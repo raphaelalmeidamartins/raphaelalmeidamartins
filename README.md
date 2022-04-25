@@ -46,7 +46,7 @@ Jr. Web Development in the making. Currently, I am finishing the Front-end modul
       <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/"><img width="100%" src="./imagens/sonic-trumps.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>Tools/Methodologies:</strong> React, Redux, React Router v6, HTML, CSS, Sass, JavaScript, Mobile First</em></p>
+      <p><em><strong>Tools/Methodologies:</strong> React (functional components), Redux, React Router v6, HTML, CSS, Sass, JavaScript, Mobile First</em></p>
       <p>Top Trumps-style card game with Sonic the Hedgehog characters</p>
     </td>
     <td valign="top">
@@ -54,7 +54,7 @@ Jr. Web Development in the making. Currently, I am finishing the Front-end modul
       <a href="https://raphaelalmeidamartins.github.io/trivia/"><img width="100%" src="./imagens/trivia.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>Tools/Methodologies:</strong> React, Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
+      <p><em><strong>Tools/Methodologies:</strong> React (class-based components), Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
       <p>Trivia game React application using a public API</p>
     </td>
   </tr>
@@ -64,7 +64,7 @@ Jr. Web Development in the making. Currently, I am finishing the Front-end modul
       <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/"><img width="100%" src="./imagens/online-store.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>Tools/Methodologies:</strong> React, Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile, Mobile First</em></p>
+      <p><em><strong>Tools/Methodologies:</strong> React (class-based components), Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile, Mobile First</em></p>
       <p>Front-end Online Store SPA using a public API</p>
     </td>
     <td valign="top">
@@ -72,7 +72,7 @@ Jr. Web Development in the making. Currently, I am finishing the Front-end modul
       <a href="https://raphaelalmeidamartins.github.io/trybewallet/"><img width="100%" src="./imagens/wallet.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>Tools/Methodologies:</strong> React, Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript, Mobile First</em></p>
+      <p><em><strong>Tools/Methodologies:</strong> React (class-based components), Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript, Mobile First</em></p>
       <p>Wallet application using exchange rates from a public API</p>
     </td>
   </tr>
