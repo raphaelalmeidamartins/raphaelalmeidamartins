@@ -31,7 +31,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
 
 <br>
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
   <a href="mailto:raphael.almeida.martins@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
 </div>
