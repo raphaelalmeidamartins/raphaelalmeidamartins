@@ -2,6 +2,8 @@
 
 <img align="right" src="imagens/my_octocat.png" alt="My octocat" width="250px">
 
+<br>
+
 ```JavaScript
 const aboutMe = {
   name: 'Raphael Martins',
