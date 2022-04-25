@@ -1,4 +1,4 @@
-<h1 align="center">:globe_with_meridians: Web developer :technologist:</h1>
+![Raphael Martins - Jr. Web Developer](./imagens/JR.%20web%20developer.png)
 
 <img align="right" src="imagens/my_octocat.png" alt="My octocat" width="250px">
 
