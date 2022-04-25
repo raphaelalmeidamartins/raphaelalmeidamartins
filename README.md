@@ -9,7 +9,7 @@ const aboutMe = {
   name: 'Raphael Martins',
   age: '27 years old';
   level: 'Junior',
-  tools: ['HTML', 'CSS', 'JavaScript ES6+', 'Sass', 'React', 'Redux', 'Sass', 'RTL'],
+  tools: ['HTML', 'CSS', 'JavaScript ES6+', 'Sass', 'React', 'Redux', 'RTL'],
   softSkills: [
     'creativity',
     'leadership',
