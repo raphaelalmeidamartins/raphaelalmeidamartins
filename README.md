@@ -4,7 +4,7 @@
 
 <br>
 
-```JavaScript
+<code><pre>
 const aboutMe = {
   name: 'Raphael Martins',
   age: '27 years old';
@@ -23,7 +23,7 @@ const aboutMe = {
 function contatcMe() {
   return 'Linkedin: https://www.linkedin.com/in/raphaelameidamartins/';
 }
-```
+</pre></code>
 
 <br>
 
