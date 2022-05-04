@@ -1,14 +1,33 @@
-![Raphael Martins - Jr. Web Developer](./imagens/JR.%20web%20developer.png)
+![Raphael Martins - Jr. Web Developer](./imagens/JR.%20web%20developer2.png)
 
-<img align="right" src="imagens/my_octocat.png" alt="My octocat" width="250px">
+<img align="right" src="imagens/my_octocat2.png" alt="My octocat" width="250px">
+
+<br>
+
+```JavaScript
+const aboutMe = {
+  name: 'Raphael Martins',
+  age: '27 years old';
+  level: 'Junior',
+  tools: ['HTML', 'CSS', 'JavaScript ES6+', 'Sass', 'React', 'Redux', 'RTL'],
+  softSkills: [
+    'creativity',
+    'leadership',
+    'communication'
+    'resilience',
+    'emotional intelligence',
+    'organization'
+  ]
+};
+
+function contatcMe() {
+  return 'Linkedin: https://www.linkedin.com/in/raphaelameidamartins/';
+}
+```
 
 <br>
 
 Jr. Web Development in the making. Currently, I am finishing the Front-end module of Trybe's course. I am a 27-year-old Brazilian who lives in São Paulo, Brazil. A nerd boy who loves technology, pop music, comic books, and games. I am a very creative person who likes to take on challenges and solve problems. Likewise, I am also dedicated and passionate about the things I do.
-
-I know HTML, CSS, and modern JavaScript (ES6+). I can work with React.js and Redux libraries. Also, I know how to implement unit and integration automated tests with Jest and React Testing Library. Furthermore, I can work with Bash and the version control systems Git and GitHub.
-
-When it comes to soft skills, I am sociable, empathic. I am always open to feedback. Finally, I understand agile methodologies such as Scrum and Kanban.
 
 <br>
 
@@ -24,7 +43,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
   <tr>
     <td valign="top">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/sonic-trumps">Sonic Trumps</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/"><img width="100%" src="./imagens/sonic-trumps.png" alt="Project-preview" /></a>
+      <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/"><img width="100%" src="./imagens/sonic-trumps2.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React (functional components), Redux, React Router v6, HTML, CSS, Sass, JavaScript, Mobile First</em></p>
@@ -32,7 +51,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
     </td>
     <td valign="top">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trivia">Trivia</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/trivia/"><img width="100%" src="./imagens/trivia.png" alt="Project-preview" /></a>
+      <a href="https://raphaelalmeidamartins.github.io/trivia/"><img width="100%" src="./imagens/trivia2.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React (class-based components), Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
@@ -42,7 +61,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
   <tr>
     <td valign="top">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/front-end-online-store">Online Store</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/"><img width="100%" src="./imagens/online-store.png" alt="Project-preview" /></a>
+      <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/"><img width="100%" src="./imagens/online-store2.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React (class-based components), Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile, Mobile First</em></p>
@@ -50,7 +69,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
     </td>
     <td valign="top">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trybewallet">Wallet</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/trybewallet/"><img width="100%" src="./imagens/wallet.png" alt="Project-preview" /></a>
+      <a href="https://raphaelalmeidamartins.github.io/trybewallet/"><img width="100%" src="./imagens/wallet2.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React (class-based components), Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript, Mobile First</em></p>
@@ -60,7 +79,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
   <tr>
     <td valign="top">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/to-do-list">To-Do List</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/to-do-list/"><img width="100%" src="./imagens/to-do-list.png" alt="Project-preview" /></a>
+      <a href="https://raphaelalmeidamartins.github.io/to-do-list/"><img width="100%" src="./imagens/to-do-list2.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
@@ -68,7 +87,7 @@ When it comes to soft skills, I am sociable, empathic. I am always open to feedb
     </td>
     <td valign="top">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trybewarts">Trybewarts</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/trybewarts/"><img width="100%" src="./imagens/trybewarts.png" alt="Project-preview" /></a>
+      <a href="https://raphaelalmeidamartins.github.io/trybewarts/"><img width="100%" src="./imagens/trybewarts2.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
