@@ -4,8 +4,7 @@
 
 <br>
 
-<code><pre>
-const aboutMe = {
+<code><pre>const aboutMe = {
   name: 'Raphael Martins',
   age: '27 years old';
   level: 'Junior',
@@ -22,8 +21,7 @@ const aboutMe = {
 
 function contatcMe() {
   return 'Linkedin: https://www.linkedin.com/in/raphaelameidamartins/';
-}
-</pre></code>
+}</pre></code>
 
 <br>
 
