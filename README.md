@@ -2,14 +2,28 @@
 
 <img align="right" src="imagens/my_octocat2.png" alt="My octocat" width="250px">
 
+```JavaScript
+const aboutMe = {
+  name: 'Raphael Martins',
+  age: '27 years old';
+  level: 'Junior',
+  tools: ['HTML', 'CSS', 'JavaScript ES6+', 'Sass', 'React', 'Redux', 'RTL'],
+  softSkills: [
+    'creativity',
+    'leadership',
+    'communication'
+    'resilience',
+    'emotional intelligence',
+    'organization'
+  ]
+};
+
+function contatcMe() {
+  return 'Linkedin: https://www.linkedin.com/in/raphaelameidamartins/';
+}
+```
 <br>
-
 Jr. Web Development in the making. Currently, I am finishing the Front-end module of Trybe's course. I am a 27-year-old Brazilian who lives in São Paulo, Brazil. A nerd boy who loves technology, pop music, comic books, and games. I am a very creative person who likes to take on challenges and solve problems. Likewise, I am also dedicated and passionate about the things I do.
-
-I know HTML, CSS, and modern JavaScript (ES6+). I can work with React.js and Redux libraries. Also, I know how to implement unit and integration automated tests with Jest and React Testing Library. Furthermore, I can work with Bash and the version control systems Git and GitHub.
-
-When it comes to soft skills, I am sociable, empathic. I am always open to feedback. Finally, I understand agile methodologies such as Scrum and Kanban.
-
 <br>
 
 <div align="center">
