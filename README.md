@@ -1,10 +1,11 @@
-![Raphael Martins - Jr. Web Developer](./imagens/JR.%20web%20developer.png)
+![Raphael Martins - Jr. Web Developer](./imagens/JR.%20web%20developer2.png)
 
 <img align="right" src="imagens/my_octocat.png" alt="My octocat" width="250px">
 
 <br>
 
-<code><pre>const aboutMe = {
+```JavaScript
+const aboutMe = {
   name: 'Raphael Martins',
   age: '27 years old';
   level: 'Junior',
@@ -12,7 +13,7 @@
   softSkills: [
     'creativity',
     'leadership',
-    'communication',
+    'communication'
     'resilience',
     'emotional intelligence',
     'organization'
@@ -21,7 +22,8 @@
 
 function contatcMe() {
   return 'Linkedin: https://www.linkedin.com/in/raphaelameidamartins/';
-}</pre></code>
+}
+```
 
 <br>
 
@@ -49,7 +51,7 @@ Jr. Web Development in the making. Currently, I am finishing the Front-end modul
     </td>
     <td valign="top">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trivia">Trivia</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/trivia/"><img width="100%" src="./imagens/trivia2.png" alt="Project-preview" /></a>
+      <a href="https://raphaelalmeidamartins.github.io/trivia/"><img width="100%" src="./imagens/trivia.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React (class-based components), Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
