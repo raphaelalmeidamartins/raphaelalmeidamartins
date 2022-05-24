@@ -1,4 +1,4 @@
-![Raphael Martins - Jr. Web Developer](./imagens/web-developer.png)
+![Raphael Martins - Jr. Web Developer](./imagens/web-developer-banner.png)
 
 <img align="right" src="imagens/my_octocat2.png" alt="My octocat" width="250px">
 
@@ -36,18 +36,18 @@ function contatcMe() {
 
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/sonic-trumps">Sonic Trumps</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/"><img width="100%" src="./imagens/sonic-trumps2.png" alt="Project-preview" /></a>
+      <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/"><img width="100%" src="./imagens/sonic-trumps.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React (functional components), Redux, React Router v6, HTML, CSS, Sass, JavaScript, Mobile First</em></p>
       <p>:us: Top Trumps-style card game with Sonic the Hedgehog characters</p>
       <p>:brazil: Jogo estilo Super Trunfo com personagens da série Sonic the Hedgehog</p>
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trivia">Trivia</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/trivia/"><img width="100%" src="./imagens/trivia2.png" alt="Project-preview" /></a>
+      <a href="https://raphaelalmeidamartins.github.io/trivia/"><img width="100%" src="./imagens/trivia.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React (class-based components), Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
@@ -56,18 +56,18 @@ function contatcMe() {
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/front-end-online-store">Online Store</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/"><img width="100%" src="./imagens/online-store2.png" alt="Project-preview" /></a>
+      <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/"><img width="100%" src="./imagens/online-store.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React (class-based components), Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile, Mobile First</em></p>
       <p>:us: Front-end Online Store SPA using a public API</p>
       <p>:brazil: Loja online Front-end SPA usando uma API pública</p>
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trybewallet">Wallet</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/trybewallet/"><img width="100%" src="./imagens/wallet2.png" alt="Project-preview" /></a>
+      <a href="https://raphaelalmeidamartins.github.io/trybewallet/"><img width="100%" src="./imagens/wallet.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React (class-based components), Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript, Mobile First</em></p>
@@ -76,18 +76,18 @@ function contatcMe() {
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/to-do-list">To-Do List</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/to-do-list/"><img width="100%" src="./imagens/to-do-list2.png" alt="Project-preview" /></a>
+      <a href="https://raphaelalmeidamartins.github.io/to-do-list/"><img width="100%" src="./imagens/to-do-list.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
       <p>:us: To-do list application. The user can change the order of the list items, mark them as completed, or delete them.</p>
       <p>:brazil: Aplicação de lista de tarefas. O usuário pode mudar a ordem dos items, marcá-los como concluídos ou deletá-los.</p>
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trybewarts">Trybewarts</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/trybewarts/"><img width="100%" src="./imagens/trybewarts2.png" alt="Project-preview" /></a>
+      <a href="https://raphaelalmeidamartins.github.io/trybewarts/"><img width="100%" src="./imagens/trybewarts.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
