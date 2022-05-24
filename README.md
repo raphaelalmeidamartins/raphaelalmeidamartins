@@ -11,9 +11,6 @@ const aboutMe = {
   softSkills: [
     'creativity',
     'leadership',
-    'communication'
-    'resilience',
-    'emotional intelligence',
     'organization'
   ]
 };
