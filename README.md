@@ -25,7 +25,6 @@ function contatcMe() {
 :brazil:
 <p>Desenvolvedor Web em formação. Atualmente finalizando o módulo de Back-end do curso da Trybe. Tenho 27 anos, sou brasileiro e moro em São Paulo capital. Sou um garoto nerd que ama tecnologia, música pop, quadrinhos e jogos. Sou uma pessoa criativa que gosta de desafios, resolver problemas e sou bastante dedicado e apaixonado pelo que eu faço.</p>
 <br>
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
