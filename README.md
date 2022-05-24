@@ -1,4 +1,4 @@
-![Raphael Martins - Jr. Web Developer](./imagens/JR.%20web%20developer2.png)
+![Raphael Martins - Jr. Web Developer](./imagens/web-developer.png)
 
 <img align="right" src="imagens/my_octocat2.png" alt="My octocat" width="250px">
 
