@@ -61,7 +61,7 @@ function contatcMe() {
       <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/"><img width="100%" src="./imagens/online-store.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile, Mobile First</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
       <p>:us: Front-end Online Store SPA using a public API</p>
       <p>:brazil: Loja online Front-end SPA usando uma API pública</p>
     </td>
