@@ -42,8 +42,8 @@ function contatcMe() {
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Redux, React Router v6, HTML, CSS, Sass, JavaScript</em></p>
-      <p>:us: Top Trumps-style card game with Sonic the Hedgehog characters</p>
-      <p>:brazil: Jogo estilo Super Trunfo com personagens da série Sonic the Hedgehog</p>
+      <p>:us: Top Trumps-style card game with Sonic characters</p>
+      <p>:brazil: Jogo estilo Super Trunfo com personagens da série Sonic</p>
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trivia">Trivia</a></h2>
