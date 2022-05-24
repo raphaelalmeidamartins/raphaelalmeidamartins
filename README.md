@@ -43,7 +43,8 @@ function contatcMe() {
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React (functional components), Redux, React Router v6, HTML, CSS, Sass, JavaScript, Mobile First</em></p>
-      <p>Top Trumps-style card game with Sonic the Hedgehog characters</p>
+      <p>:us: Top Trumps-style card game with Sonic the Hedgehog characters</p>
+      <p>:brazil: Jogo estilo Super Trunfo com personagens da série Sonic the Hedgehog</p>
     </td>
     <td valign="top">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trivia">Trivia</a></h2>
@@ -51,7 +52,8 @@ function contatcMe() {
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React (class-based components), Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
-      <p>Trivia game React application using a public API</p>
+      <p>:us: Trivia game React application using a public API</p>
+      <p>:brazil: Jogo de trivia desenvolvido em React usando uma API pública</p>
     </td>
   </tr>
   <tr>
@@ -61,7 +63,8 @@ function contatcMe() {
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React (class-based components), Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile, Mobile First</em></p>
-      <p>Front-end Online Store SPA using a public API</p>
+      <p>:us: Front-end Online Store SPA using a public API</p>
+      <p>:brazil: Loja online Front-end SPA usando uma API pública</p>
     </td>
     <td valign="top">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trybewallet">Wallet</a></h2>
@@ -69,7 +72,8 @@ function contatcMe() {
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> React (class-based components), Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript, Mobile First</em></p>
-      <p>Wallet application using exchange rates from a public API</p>
+      <p>:us: Wallet application using exchange rates from a public API</p>
+      <p>:brazil: Aplicação de carteira usando taxas de câmbio de uma API pública</p>
     </td>
   </tr>
   <tr>
@@ -79,7 +83,8 @@ function contatcMe() {
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
-      <p>To-do list application. The user can change the order of the list items, mark them as completed, or delete them.</p>
+      <p>:us: To-do list application. The user can change the order of the list items, mark them as completed, or delete them.</p>
+      <p>:brazil: Aplicação de lista de tarefas. O usuário pode mudar a ordem dos items, marcá-los como concluídos ou deletá-los.</p>
     </td>
     <td valign="top">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trybewarts">Trybewarts</a></h2>
@@ -87,7 +92,8 @@ function contatcMe() {
       <br>
       <br>
       <p><em><strong>Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
-      <p>Harry Potter-inspired responsive web page with HTML form.</p>
+      <p>:us: Harry Potter-inspired responsive web page with HTML form.</p>
+      <p>:brazil: Página responsiva com formulário HTML e inspirada em Harry Potter.</p>
     </td>
   </tr>
 </table>
