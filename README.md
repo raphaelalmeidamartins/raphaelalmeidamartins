@@ -41,7 +41,7 @@ function contatcMe() {
       <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/"><img width="100%" src="./imagens/sonic-trumps.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>Tools/Methodologies:</strong> React (functional components), Redux, React Router v6, HTML, CSS, Sass, JavaScript, Mobile First</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Redux, React Router v6, HTML, CSS, Sass, JavaScript, Mobile First</em></p>
       <p>:us: Top Trumps-style card game with Sonic the Hedgehog characters</p>
       <p>:brazil: Jogo estilo Super Trunfo com personagens da série Sonic the Hedgehog</p>
     </td>
@@ -50,7 +50,7 @@ function contatcMe() {
       <a href="https://raphaelalmeidamartins.github.io/trivia/"><img width="100%" src="./imagens/trivia.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>Tools/Methodologies:</strong> React (class-based components), Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
       <p>:us: Trivia game React application using a public API</p>
       <p>:brazil: Jogo de trivia desenvolvido em React usando uma API pública</p>
     </td>
@@ -61,7 +61,7 @@ function contatcMe() {
       <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/"><img width="100%" src="./imagens/online-store.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>Tools/Methodologies:</strong> React (class-based components), Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile, Mobile First</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile, Mobile First</em></p>
       <p>:us: Front-end Online Store SPA using a public API</p>
       <p>:brazil: Loja online Front-end SPA usando uma API pública</p>
     </td>
@@ -70,7 +70,7 @@ function contatcMe() {
       <a href="https://raphaelalmeidamartins.github.io/trybewallet/"><img width="100%" src="./imagens/wallet.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>Tools/Methodologies:</strong> React (class-based components), Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript, Mobile First</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript, Mobile First</em></p>
       <p>:us: Wallet application using exchange rates from a public API</p>
       <p>:brazil: Aplicação de carteira usando taxas de câmbio de uma API pública</p>
     </td>
@@ -81,7 +81,7 @@ function contatcMe() {
       <a href="https://raphaelalmeidamartins.github.io/to-do-list/"><img width="100%" src="./imagens/to-do-list.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
       <p>:us: To-do list application. The user can change the order of the list items, mark them as completed, or delete them.</p>
       <p>:brazil: Aplicação de lista de tarefas. O usuário pode mudar a ordem dos items, marcá-los como concluídos ou deletá-los.</p>
     </td>
@@ -90,7 +90,7 @@ function contatcMe() {
       <a href="https://raphaelalmeidamartins.github.io/trybewarts/"><img width="100%" src="./imagens/trybewarts.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
       <p>:us: Harry Potter-inspired responsive web page with HTML form.</p>
       <p>:brazil: Página responsiva com formulário HTML e inspirada em Harry Potter.</p>
     </td>
