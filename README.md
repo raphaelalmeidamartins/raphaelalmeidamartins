@@ -41,7 +41,7 @@ function contatcMe() {
       <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/"><img width="100%" src="./imagens/sonic-trumps.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Redux, React Router v6, HTML, CSS, Sass, JavaScript, Mobile First</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Redux, React Router v6, HTML, CSS, Sass, JavaScript</em></p>
       <p>:us: Top Trumps-style card game with Sonic the Hedgehog characters</p>
       <p>:brazil: Jogo estilo Super Trunfo com personagens da série Sonic the Hedgehog</p>
     </td>
