@@ -33,6 +33,8 @@ function contatcMe() {
 </div>
 <br>
 
+![divider](./imagens/divider.png)
+
 <h1 align="center">Main Projects</h1>
 
 <table>
@@ -119,6 +121,8 @@ function contatcMe() {
 </table>
 <br>
 
+![divider](./imagens/divider.png)
+
 <h1 align="center">GitHub Statistics</h1>
 
 <div align="center">
@@ -138,3 +142,5 @@ function contatcMe() {
     <p><img alingn="center" src="https://profile-counter.glitch.me/raphaelalmeidamartins/count.svg"></p>
   </div>
 </div>
+
+![divider](./imagens/divider.png)
