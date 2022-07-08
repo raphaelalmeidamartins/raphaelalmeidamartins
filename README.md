@@ -1,4 +1,4 @@
-![Raphael Martins - Jr. Web Developer](./imagens/web-developer-banner.png)
+![Raphael Martins - Jr. Web Developer](./imagens/jr-web-developer.png)
 
 <img align="right" src="imagens/my_octocat2.png" alt="My octocat" width="250px">
 
@@ -28,7 +28,8 @@ function contatcMe() {
 
 <div align="center">
   <a href="https://www.linkedin.com/in/raphaelameidamartins/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-  <a href="mailto:raphael.almeida.martins@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
+  <a href="mailto:raphael.almeida.martins@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://raphaelalmeidamartins.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portolio"></a> 
 </div>
 <br>
 
@@ -46,6 +47,17 @@ function contatcMe() {
       <p>:brazil: Jogo estilo Super Trunfo com personagens da série Sonic</p>
     </td>
     <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/raphaelalmeidamartins.github.io">Portfolio</a></h2>
+      <a href="https://raphaelalmeidamartins.github.io/"><img width="100%" src="./imagens/portfolio.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), React Router v6, HTML, CSS, Material UI, JavaScript</em></p>
+      <p>:us: My personal portfolio.</p>
+      <p>:brazil: Meu portfólio pessoal.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trivia">Trivia</a></h2>
       <a href="https://raphaelalmeidamartins.github.io/trivia/"><img width="100%" src="./imagens/trivia.png" alt="Project-preview" /></a>
       <br>
@@ -54,8 +66,6 @@ function contatcMe() {
       <p>:us: Trivia game React application using a public API</p>
       <p>:brazil: Jogo de trivia desenvolvido em React usando uma API pública</p>
     </td>
-  </tr>
-  <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/front-end-online-store">Online Store</a></h2>
       <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/"><img width="100%" src="./imagens/online-store.png" alt="Project-preview" /></a>
@@ -64,15 +74,6 @@ function contatcMe() {
       <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
       <p>:us: Front-end Online Store SPA using a public API</p>
       <p>:brazil: Loja online Front-end SPA usando uma API pública</p>
-    </td>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trybewallet">Wallet</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/trybewallet/"><img width="100%" src="./imagens/wallet.png" alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript, Mobile First</em></p>
-      <p>:us: Wallet application using exchange rates from a public API</p>
-      <p>:brazil: Aplicação de carteira usando taxas de câmbio de uma API pública</p>
     </td>
   </tr>
   <tr>
@@ -86,13 +87,33 @@ function contatcMe() {
       <p>:brazil: Aplicação de lista de tarefas. O usuário pode mudar a ordem dos items, marcá-los como concluídos ou deletá-los.</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trybewarts">Trybewarts</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/trybewarts/"><img width="100%" src="./imagens/trybewarts.png" alt="Project-preview" /></a>
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trybewallet">Wallet</a></h2>
+      <a href="https://raphaelalmeidamartins.github.io/trybewallet/"><img width="100%" src="./imagens/wallet.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript, Mobile First</em></p>
+      <p>:us: Wallet application using exchange rates from a public API</p>
+      <p>:brazil: Aplicação de carteira usando taxas de câmbio de uma API pública</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/store-manager">Store Manager</a></h2>
+      <a href="https://github.com/raphaelalmeidamartins/store-manager"><img width="100%" src="./imagens/store-manager.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> JavaScript, Node.js, Express.js, MySQL, Mocha, Chai, Sinon</em></p>
+      <p>:us: RESTful API developed with Node.js and Express.js with MySQL database.</p>
+      <p>:brazil: API RESTful desenvolvida em Node.js e Express.js com o banco de dados MySQL.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/tests-with-react-testing-library">Tests with RTL</a></h2>
+      <a href="https://github.com/raphaelalmeidamartins/tests-with-react-testing-library"><img width="100%" src="./imagens/test-with-rtl.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
-      <p>:us: Harry Potter-inspired responsive web page with HTML form.</p>
-      <p>:brazil: Página responsiva com formulário HTML e inspirada em Harry Potter.</p>
+      <p>:us: Front-end testing project with React Testing Library.</p>
+      <p>:brazil: Projeto de testes no Front-end com a React Testing Library.</p>
     </td>
   </tr>
 </table>
