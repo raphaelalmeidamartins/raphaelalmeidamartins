@@ -53,7 +53,7 @@ function contatcMe() {
       <a href="https://raphaelalmeidamartins.github.io/"><img width="100%" src="./imagens/portfolio.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), React Context API, HTML, CSS, Material UI, JavaScript</em></p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional components), Context API, HTML, CSS, Material UI, JavaScript</em></p>
       <p>:us: My personal portfolio.</p>
       <p>:brazil: Meu portfólio pessoal.</p>
     </td>
