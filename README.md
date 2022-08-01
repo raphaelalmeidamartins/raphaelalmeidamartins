@@ -69,7 +69,7 @@ function contatcMe() {
       <p>:brazil: Jogo de trivia desenvolvido em React usando uma API pública</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/hackathon-trybe-wine">Wine landing page</a></h2>
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/hackathon-trybe-wine">Wine Landing Page</a></h2>
       <a href="https://raphaelmartins.dev/hackathon-trybe-wine/#/"><img width="100%" src="./imagens/hackathon.png" alt="Project-preview" /></a>
       <br>
       <br>
