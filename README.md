@@ -69,13 +69,13 @@ function contatcMe() {
       <p>:brazil: Jogo de trivia desenvolvido em React usando uma API pública</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/front-end-online-store">Online Store</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/"><img width="100%" src="./imagens/online-store.png" alt="Project-preview" /></a>
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/hackathon-trybe-wine">Wallet</a></h2>
+      <a href="https://raphaelmartins.dev/hackathon-trybe-wine/#/"><img width="100%" src="./imagens/hackathon.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
-      <p>:us: Front-end Online Store SPA using a public API</p>
-      <p>:brazil: Loja online Front-end SPA usando uma API pública</p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (functional-based components), Redux, Redux Toolkit, Redux thunk, HTML, CSS, Styled Components, Material UI, JavaScript, Mobile First</em></p>
+      <p>:us: React landing page developed with React for the Hackathon promoted by Trybe and Wine</p>
+      <p>:brazil: Landing page desenvolvida em React para o Hackathon organizado pela Trybe em parceria com a empresa Wine</p>
     </td>
   </tr>
   <tr>
@@ -89,13 +89,13 @@ function contatcMe() {
       <p>:brazil: Aplicação de lista de tarefas. O usuário pode mudar a ordem dos items, marcá-los como concluídos ou deletá-los.</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trybewallet">Wallet</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/trybewallet/"><img width="100%" src="./imagens/wallet.png" alt="Project-preview" /></a>
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/front-end-online-store">Online Store</a></h2>
+      <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/"><img width="100%" src="./imagens/online-store.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Redux, Redux thunk, HTML, CSS, Sass, Bulma, JavaScript, Mobile First</em></p>
-      <p>:us: Wallet application using exchange rates from a public API</p>
-      <p>:brazil: Aplicação de carteira usando taxas de câmbio de uma API pública</p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
+      <p>:us: Front-end Online Store SPA using a public API</p>
+      <p>:brazil: Loja online Front-end SPA usando uma API pública</p>
     </td>
   </tr>
   <tr>
