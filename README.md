@@ -255,13 +255,13 @@ function contatcMe() {
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/store-manager">Store Manager</a></h2>
-      <a href="https://github.com/raphaelalmeidamartins/store-manager"><img width="100%" src="./imagens/store-manager.png" alt="Project-preview" /></a>
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/mongodb-car-shop">MongoDB Car Shop</a></h2>
+      <a href="https://github.com/raphaelalmeidamartins/mongodb-car-shop"><img width="100%" src="./imagens/car-shop.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> JavaScript, Node.js, Express.js, MySQL, Mocha, Chai, Sinon</em></p>
-      <p>:us: RESTful API developed with Node.js and Express.js with MySQL database.</p>
-      <p>:brazil: API RESTful desenvolvida em Node.js e Express.js com o banco de dados MySQL.</p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> TypeScript, Node.js, Express.js, MongoDB, Mongoose, Mocha, Chai, Sinon</em></p>
+      <p>:us: RESTful API developed with with MongoDB database using OOP and SOLID principles.</p>
+      <p>:brazil: API RESTful desenvolvida com o banco de dados MongoDB utilizando princípios POO e SOLID.</p>
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/tests-with-react-testing-library">Tests with RTL</a></h2>
