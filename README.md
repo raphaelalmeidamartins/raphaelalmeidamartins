@@ -38,8 +38,6 @@ function contatcMe() {
 
 <h1 align="center">Skills</h1>
 
-<h2 align="center">Front-end</h2>
-
 <div align="center">
   <img
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -89,12 +87,7 @@ function contatcMe() {
     src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
     alt="Markdown"
   />
-</div>
-
-<h2 align="center">Back-end</h2>
-
-<div align="center">
-  <img
+    <img
     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
     alt="JavaScript"
   />
@@ -142,12 +135,7 @@ function contatcMe() {
     src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
     alt="Heroku"
   />
-</div>
-
-<h2 align="center">Tests</h2>
-
-<div align="center">
-  <img
+    <img
     src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"
     alt="Jest"
   />
@@ -167,12 +155,7 @@ function contatcMe() {
     src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"
     alt="Sinon.js"
   />
-</div>
-
-<h2 align="center">Other</h2>
-
-<div align="center">
-  <img
+    <img
     src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=whitee"
     alt="Git"
   />
