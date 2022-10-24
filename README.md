@@ -298,7 +298,7 @@ function contatcMe() {
     <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=raphaelalmeidamartins&count_private=true&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelalmeidamartins&layout=compact&theme=dracula" />
+    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelalmeidamartins&layout=compact&theme=dracula&langs_count=10&hide=shell,less,dockerfile,jinja" />
   </a>
   <a href="https://git.io/streak-stats">
     <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=raphaelalmeidamartins&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
