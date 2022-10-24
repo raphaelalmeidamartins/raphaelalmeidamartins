@@ -22,9 +22,9 @@ function contatcMe() {
 
 <br>
 :us:
-<p>Web Developer in the making. Currently, I am finishing the Back-end module of Trybe's course. I am a 27-year-old Brazilian who lives in São Paulo, Brazil. A nerd boy who loves technology, pop music, comic books, and games. I am a very creative person who likes to take on challenges and solve problems. Likewise, I am also dedicated and passionate about the things I do.</p>
+<p>Full Stack Web Developer. Currently, I am finishing the Computer Science module of Trybe's course. I am a 28-year-old Brazilian who lives in São Paulo, Brazil. A nerd boy who loves technology, pop music, comic books, and games. I am a very creative person who likes to take on challenges and solve problems. Likewise, I am also dedicated and passionate about the things I do.</p>
 :brazil:
-<p>Desenvolvedor Web em formação. Atualmente finalizando o módulo de Back-end do curso da Trybe. Tenho 27 anos, sou brasileiro e moro em São Paulo capital. Sou um garoto nerd que ama tecnologia, música pop, quadrinhos e jogos. Sou uma pessoa criativa que gosta de desafios, resolver problemas e sou bastante dedicado e apaixonado pelo que eu faço.</p>
+<p>Desenvolvedor Web Full Stack. Atualmente finalizando o módulo de Ciência da Computação do curso da Trybe. Tenho 28 anos, sou brasileiro e moro em São Paulo capital. Sou um garoto nerd que ama tecnologia, música pop, quadrinhos e jogos. Sou uma pessoa criativa que gosta de desafios, resolver problemas e sou bastante dedicado e apaixonado pelo que eu faço.</p>
 <br>
 
 <div align="center">
