@@ -56,6 +56,10 @@ function contatcMe() {
     alt="TypeScript"
   />
   <img
+    src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
+    alt="Next"
+  />
+  <img
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
     alt="React"
   />
@@ -108,6 +112,10 @@ function contatcMe() {
     alt="MySQL"
   />
   <img
+    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+    alt="PostgreSQL"
+  />
+  <img
     src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
     alt="MongoDB"
   />
@@ -142,6 +150,10 @@ function contatcMe() {
   <img
     src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"
     alt="Testing Library"
+  />
+  <img
+    src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"
+    alt="Cypress"
   />
   <img
     src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown"
@@ -232,13 +244,13 @@ function contatcMe() {
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trivia">Trivia</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/trivia/"><img width="100%" src="./imagens/trivia.png" alt="Project-preview" /></a>
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/fullstack-bank">Full Stack Bank</a></h2>
+      <a href="https://github.com/raphaelalmeidamartins/fullstack-bank"><img width="100%" src="./imagens/fullstack-bank.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
-      <p>:us: Trivia game React application using a public API</p>
-      <p>:brazil: Jogo de trivia desenvolvido em React usando uma API pública</p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> Next.js, Sass, TypesCript, Node.js, Express.js, PostgreSQL, Sequelize.js, Docker, Cypress, Mocha, Chai, Sinon Swagger UI</em></p>
+      <p>:us: Full stack digital wallet application developed with Next.js and Node.js</p>
+      <p>:brazil: Aplicação full stack dockerizada de carteira digital desenvolida em Next.js e Node.js</p>
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/hackathon-trybe-wine">Wine Landing Page</a></h2>
@@ -261,13 +273,13 @@ function contatcMe() {
       <p>:brazil: Aplicação de lista de tarefas. O usuário pode mudar a ordem dos items, marcá-los como concluídos ou deletá-los.</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/front-end-online-store">Online Store</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/front-end-online-store/#/"><img width="100%" src="./imagens/online-store.png" alt="Project-preview" /></a>
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trivia">Trivia</a></h2>
+      <a href="https://raphaelalmeidamartins.github.io/trivia/"><img width="100%" src="./imagens/trivia.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Context API, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
-      <p>:us: Front-end Online Store SPA using a public API</p>
-      <p>:brazil: Loja online Front-end SPA usando uma API pública</p>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> React (class-based components), Redux, React Router v5, HTML, CSS, Sass, JavaScript, Agile</em></p>
+      <p>:us: Trivia game React application using a public API</p>
+      <p>:brazil: Jogo de trivia desenvolvido em React usando uma API pública</p>
     </td>
   </tr>
   <tr>
