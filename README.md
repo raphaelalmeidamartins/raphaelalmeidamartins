@@ -5,9 +5,7 @@
 ```JavaScript
 const aboutMe = {
   name: 'Raphael Martins',
-  age: '27 years old';
-  level: 'Junior',
-  tools: ['HTML', 'CSS', 'JavaScript ES6+', 'Sass', 'React', 'Redux', 'RTL'],
+  age: '28 years old';
   softSkills: [
     'creativity',
     'leadership',
