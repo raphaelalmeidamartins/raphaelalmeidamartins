@@ -20,9 +20,9 @@ function contatcMe() {
 
 <br>
 :us:
-<p>Full Stack Web Developer. Currently, I am finishing the Computer Science module of Trybe's course. I am a 28-year-old Brazilian who lives in São Paulo, Brazil. A nerd boy who loves technology, pop music, comic books, and games. I am a very creative person who likes to take on challenges and solve problems. Likewise, I am also dedicated and passionate about the things I do.</p>
+<p>As a Full Stack Web Developer, I currently serve as a Digital Solutions Developer at FTD Educação, where I create innovative front-end education applications and games, and also contribute to the company's digital transformation through product development. Based in São Paulo, Brazil, I'm a 28-year-old tech enthusiast who's equally passionate about pop music, comic books, and games. My creativity and problem-solving skills allow me to take on challenges with confidence, and I approach my work with dedication and commitment.</p>
 :brazil:
-<p>Desenvolvedor Web Full Stack. Atualmente finalizando o módulo de Ciência da Computação do curso da Trybe. Tenho 28 anos, sou brasileiro e moro em São Paulo capital. Sou um garoto nerd que ama tecnologia, música pop, quadrinhos e jogos. Sou uma pessoa criativa que gosta de desafios, resolver problemas e sou bastante dedicado e apaixonado pelo que eu faço.</p>
+<p>Desenvolvedor Full Stack e atualmente trabalho como Desenvolvedor de Soluções Digitais na FTD Educação. Lá, crio aplicações e jogos educacionais front-end e também contribuo para a transição digital da empresa através do desenvolvimento de produtos. Sou um brasileiro de 28 anos que mora em São Paulo e é apaixonado por tecnologia, música pop, quadrinhos e jogos. Sou uma pessoa muito criativa, que gosta de enfrentar desafios e resolver problemas. Além disso, sou dedicado e apaixonado pelo que faço.</p>
 <br>
 
 <div align="center">
@@ -193,11 +193,6 @@ function contatcMe() {
     src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
     alt="Microsoft Excel"
   />
-</div>
-
-<h1 align="center">Learning</h1>
-
-<div align="center">
   <img
     src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
     alt="Python"
@@ -209,6 +204,23 @@ function contatcMe() {
   <img
     src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
     alt="C#"
+  />
+</div>
+
+<h1 align="center">Learning</h1>
+
+<div align="center">
+  <img
+    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+    alt="Java"
+  />
+  <img
+    src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"
+    alt="kotlin"
+  />
+  <img
+    src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"
+    alt="Swift"
   />
 </div>
 
