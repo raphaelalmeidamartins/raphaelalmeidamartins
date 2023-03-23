@@ -32,6 +32,18 @@ function contatcMe() {
 </div>
 <br>
 
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <img width="100%" src="./imagens/laptop-stickers.jpeg"" alt="Laptop with stickers / Notebook com adesivos" />
+    </td>
+    <td valign="top" width="50%">
+      <img width="100%" src="./imagens/laptop.jpeg"" alt="Laptop with code editor opened / Notebook com editor de código aberto" />
+    </td>
+  </tr>
+</table>
+<br>
+
 ![divider](./imagens/divider.png)
 
 <h1 align="center">Skills</h1>
