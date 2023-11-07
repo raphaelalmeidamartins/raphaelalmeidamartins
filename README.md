@@ -20,9 +20,12 @@ function contatcMe() {
 
 <br>
 :us:
-<p>As a Full Stack Web Developer, I currently serve as a Digital Solutions Developer at FTD Educação, where I create innovative front-end education applications and games, and also contribute to the company's digital transformation through product development. Based in São Paulo, Brazil, I'm a 28-year-old tech enthusiast who's equally passionate about pop music, comic books, and games. My creativity and problem-solving skills allow me to take on challenges with confidence, and I approach my work with dedication and commitment.</p>
+<p>I'm a Full Stack and Mobile developer, currently working as a technology agent at Banco do Brasil in the DITEC (Technology Directorate). My unit is responsible for engineering, building, and maintaining software for the institution's products and services, as well as internal systems.</p>
+<p>At 29 years old, I'm a Brazilian living in São Paulo. I'm passionate about technology, pop music, comics, and games. I have a creative mind that enjoys taking on challenges and solving problems. Furthermore, I'm dedicated and passionate about what I do.</p>
+
 :brazil:
-<p>Desenvolvedor Full Stack e atualmente trabalho como Desenvolvedor de Soluções Digitais na FTD Educação. Lá, crio aplicações e jogos educacionais front-end e também contribuo para a transição digital da empresa através do desenvolvimento de produtos. Sou um brasileiro de 28 anos que mora em São Paulo e é apaixonado por tecnologia, música pop, quadrinhos e jogos. Sou uma pessoa muito criativa, que gosta de enfrentar desafios e resolver problemas. Além disso, sou dedicado e apaixonado pelo que faço.</p>
+<p>Sou um desenvolvedor Full Stack e Mobile, atualmente atuando como agente de tecnologia no Banco do Brasil, na DITEC (Diretoria de Tecnologia). Minha unidade é responsável pela engenharia, construção e sustentação de software para produtos e serviços da instituição, bem como sistemas internos.</p>
+<p>Com 29 anos, sou brasileiro e vivo em São Paulo. Sou apaixonado por tecnologia, música pop, quadrinhos e jogos. Tenho uma mente criativa que adora enfrentar desafios e resolver problemas. Além disso, sou dedicado e apaixonado pelo que faço.</p>
 <br>
 
 <div align="center">
