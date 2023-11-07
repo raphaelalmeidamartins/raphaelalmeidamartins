@@ -22,7 +22,6 @@ function contatcMe() {
 :us:
 <p>I'm a Full Stack and Mobile developer, currently working as a technology agent at Banco do Brasil in the DITEC (Technology Directorate). My unit is responsible for engineering, building, and maintaining software for the institution's products and services, as well as internal systems.</p>
 <p>At 29 years old, I'm a Brazilian living in São Paulo. I'm passionate about technology, pop music, comics, and games. I have a creative mind that enjoys taking on challenges and solving problems. Furthermore, I'm dedicated and passionate about what I do.</p>
-
 :brazil:
 <p>Sou um desenvolvedor Full Stack e Mobile, atualmente atuando como agente de tecnologia no Banco do Brasil, na DITEC (Diretoria de Tecnologia). Minha unidade é responsável pela engenharia, construção e sustentação de software para produtos e serviços da instituição, bem como sistemas internos.</p>
 <p>Com 29 anos, sou brasileiro e vivo em São Paulo. Sou apaixonado por tecnologia, música pop, quadrinhos e jogos. Tenho uma mente criativa que adora enfrentar desafios e resolver problemas. Além disso, sou dedicado e apaixonado pelo que faço.</p>
